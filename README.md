@@ -13,8 +13,9 @@ In order to understand how to configure a loadout, or your common items you must
 | |Using one space will allow you to specify that it is a quantity item, and how many should be in it's stack.|Rag 4|
 |/|Seperates the attachment with the attachments for that attachment. The battery is an attachment for the scope.|AKM#ak_suppressor#ak_woodbttstck_black#ak_railhndgrd#pso1optic/battery9v|
 
-**Notes:**
-If you wish to set a quantity item, and a slot you must specify the slot before the quantity amount. An example of this would be:
+### Notes READ!!!!!:
+**If you wish to set a quantity item, and a slot you must specify the slot before the quantity amount. An example of this would be:**
+
 ```
 Rag-5 4
 ```
