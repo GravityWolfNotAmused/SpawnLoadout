@@ -3,6 +3,9 @@
 ## Configuration File Location
 Your configuration directories, and files will be created after adding this custom mission class to your init.c, and running the server once. They are located in `$profiles:SpawnLoadout`.
 
+## Adding new Loadout
+Create a text file in `profiles:SpawnLoadout/Kits` you can feel free to name it whatever you wish, as long as it's a txt file type.
+
 ## Configuration
 In order to understand how to configure a loadout, or your common items you must understand what symbols represent what. Template files use all of the types of markings.
 
@@ -20,6 +23,8 @@ In order to understand how to configure a loadout, or your common items you must
 Rag-5 4
 ```
 
+## CommonItems.txt
+This file is specifically used to specify which item's all kits/player should receive.
 
 Special Thanks:
 [WarDog](https://github.com/wrdg)
