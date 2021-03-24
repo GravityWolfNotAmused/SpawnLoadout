@@ -1,4 +1,4 @@
-# SpawnLoadoutThingy
+# SpawnLoadout
 
 ## Configuration File Location
 Your configuration directories, and files will be created after adding this custom mission class to your init.c, and running the server once. They are located in `$profiles:SpawnLoadout`.
