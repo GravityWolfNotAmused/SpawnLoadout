@@ -3,8 +3,8 @@
 ## Configuration File Location
 Your configuration directories, and files will be created after adding this custom mission class to your init.c, and running the server once. They are located in `$profiles:SpawnLoadout`.
 
-## Discord Server
-[![Discord Shield](https://discordapp.com/api/guilds/824404335105933382/widget.png?style=shield)](https://discord.gg/fdU6Unbg2M)
+## Join My Discord Server
+[![Discord Shield](https://discordapp.com/api/guilds/824404335105933382/widget.png?style=shield)](https://discord.gg/meBtwthmmD)
 
 ## Adding new Loadout
 Create a text file in `profiles:SpawnLoadout/Kits` you can feel free to name it whatever you wish, as long as it's a txt file type.
